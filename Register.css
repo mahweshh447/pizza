@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 650px;
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1355px 650px;
+}
+form{
+    border: solid 2px black;
+    margin-left: 900px;
+    margin-top: 100px;
+    width: 400px;
+    height: 300px;
+    padding-left: 15px;
+}
+label{
+    color:white;
+    font-size: 18px;
+}
+h1{
+    color:firebrick;
+    text-align: center;
+}
+p a{
+    color: white;
+}
+p{
+    color: white;
+}
+button{
+    height: 35px;
+    width: 65px;
+    background-color: firebrick;
+    color: black;
+    font-size: small;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
